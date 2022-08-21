@@ -1,1 +1,1 @@
-# Calculator
+# Calculator (compatible for mobile)
